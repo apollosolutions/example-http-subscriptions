@@ -1,0 +1,12 @@
+type Query {
+  hello: String
+}
+
+type StockUpdate {
+  change: Float
+  changePercent: Float
+}
+
+type Subscription {
+  stockUpdate: StockUpdate
+}
