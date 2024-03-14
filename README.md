@@ -1,4 +1,4 @@
-# example-http-subscriptions
+# Federated Subscriptions over HTTP Multipart
 
 This repository demonstrates how to get real-time data with Federated Subscriptions via a HTTP Multipart based subscription with the router in HTTP callback mode.
 
